@@ -1,0 +1,6 @@
+./idea/modules.xml
+lib/
+rimraf/
+node_modules/
+umd/
+
